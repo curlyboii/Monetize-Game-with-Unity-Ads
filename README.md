@@ -11,4 +11,5 @@ When we close ads, we get 70 coins.
 ![Screenshot 3](https://github.com/curlyboii/Monetize-Game-with-Unity-Ads/blob/main/3.png)
 
 And here is the result after watching the ad a few more times.
+
 ![Screenshot 4](https://github.com/curlyboii/Monetize-Game-with-Unity-Ads/blob/main/4.png)
