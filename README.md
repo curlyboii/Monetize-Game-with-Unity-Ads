@@ -1,4 +1,5 @@
 # Monetize-Game-with-Unity-Ads
+# Project Description {style="font-size: 24px;"}
 This is an example of how you can implement ads in games using Unity Ads
 
 We start the project, and at the click of a button, we must view an ad that cannot be missed.
